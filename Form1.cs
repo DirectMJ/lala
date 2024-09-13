@@ -40,9 +40,7 @@ namespace PattaguanMj
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            cbDept.Items.Add("nice");
-            cbDept.Items.Add("wow");
-
+          
             dt.Columns.Add("First Name");
             dt.Columns.Add("Last Name");
             dt.Columns.Add("Department");
