@@ -15,6 +15,7 @@ namespace PattaguanMj
     public partial class Form1 : Form
     {
         DataTable dt = new DataTable();
+        DataTable = _dt
         
         public Form1()
         {
